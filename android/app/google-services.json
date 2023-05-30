@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "66754138434",
+    "project_id": "hushop-b5528",
+    "storage_bucket": "hushop-b5528.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66754138434:android:a6b5142d753f123bfef8db",
+        "android_client_info": {
+          "package_name": "com.hu.final_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66754138434-15tmk04th3h25p3f50gcs8013hipovqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb84x-ve2Avr9j5O_D7wUNA46DQxU9WtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66754138434-15tmk04th3h25p3f50gcs8013hipovqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
